@@ -73,7 +73,7 @@
     </div>
 
     <h3>Work History / Projects</h3>
-    <h4>Internship, Fall 2025</h4>
+    <h4>Internship, Fall 2025 & Spring 2025</h4>
     <div>
         <p>
             Was part of a team of fullstack-developer interns @ Knowit Östersund
@@ -83,12 +83,13 @@
             more React with together with Shadcn components.
         </p>
 
-        <div class="tags flex flex-wrap gap-2">
+        <div class="tags flex flex-wrap gap-2">            
             <Tag>ASP.NET</Tag>
             <Tag>React</Tag>
             <Tag>shadcn/ui</Tag>
             <Tag>TailwindCSS</Tag>
             <Tag>TypeScript</Tag>
+            <Tag>AWS</Tag>
         </div>
     </div>
 
@@ -156,13 +157,13 @@
 
     <h3>University studies</h3>
     <div>
-        <h4>Uppsala Universitet - Game Design, 2019</h4>
+        <h4>Game Design @ Uppsala Universitet, 2019</h4>
         <p>
             Studied Game Design at Uppsala University, Campus Gotland and got a
             Bachelors Degree. The programme was mostly focused on group project
             work but I also took extra programming courses for my minor.
         </p>
-        <h4>Umeå Universitet - Computer Science, 2015</h4>
+        <h4>Computer Science @ Umeå Universitet, 2015</h4>
         <p>
             Studied programming in C, objectoriented programming in Java,
             HTML/CSS, maths and more.
